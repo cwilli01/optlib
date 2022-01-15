@@ -1,5 +1,7 @@
 # optlib
 A library to fetch financial option chains and price options using closed-form solutions written in Python. Original code written by Davis Edwards, packaged by Daniel Rojas. MIT License.
+https://www.analyticsvidhya.com/blog/2021/06/download-15-years-of-nifty-index-options-data-using-nsepy-package/
+
 
 **Changelog**
 
